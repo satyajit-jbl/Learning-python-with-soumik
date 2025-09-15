@@ -1,0 +1,4 @@
+# INDEX
+
+name =["Soumik","Rajdeep","Dibbo","ADRIYAN"]
+print(name [0])
